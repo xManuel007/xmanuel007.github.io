@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.38f89202.css",
+    "main.js": "/portfolio/static/js/main.7a955c5c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Foodpoint.png": "/portfolio/static/media/Foodpoint.c1923a76ac0791eb4347.png",
+    "static/media/takemydog.png": "/portfolio/static/media/takemydog.9a08dbb6df9feed596dc.png",
+    "static/media/mockupMac.png": "/portfolio/static/media/mockupMac.a8977245551c40c34054.png",
+    "static/media/ricardoymartin.png": "/portfolio/static/media/ricardoymartin.dd8a977e9c197bd9457c.png",
+    "static/media/udc.png": "/portfolio/static/media/udc.5648d9b4657da5127b6f.png",
+    "static/media/CVManuelRios.pdf": "/portfolio/static/media/CVManuelRios.80e6b88335a735357b75.pdf",
+    "static/media/me.jpg": "/portfolio/static/media/me.1983c13b47557cd52110.jpg",
+    "static/media/pong.png": "/portfolio/static/media/pong.d2bb0fdee74a1b30936e.png",
+    "index.html": "/portfolio/index.html",
+    "main.38f89202.css.map": "/portfolio/static/css/main.38f89202.css.map",
+    "main.7a955c5c.js.map": "/portfolio/static/js/main.7a955c5c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38f89202.css",
+    "static/js/main.7a955c5c.js"
+  ]
+}
